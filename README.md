@@ -1,3 +1,4 @@
+no
 # [Telegram X](https://play.google.com/store/apps/details?id=org.thunderdog.challegram) — a slick experimental Telegram client based on [TDLib](https://core.telegram.org/tdlib).
 
 ![Telegram X](/images/feature.png)
